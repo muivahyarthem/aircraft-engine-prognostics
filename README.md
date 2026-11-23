@@ -242,8 +242,8 @@ We benchmarked our transfer learning pipeline against prominent published peer-r
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/turbofan-rul-transfer-learning.git
-cd turbofan-rul-transfer-learning
+git clone https://github.com/muivahyarthem/aircraft-engine-prognostics.git
+cd aircraft-engine-prognostics
 ```
 
 ### 2. Set Up a Virtual Environment
