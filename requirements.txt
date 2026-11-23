@@ -1,0 +1,10 @@
+# Requirements for Turbofan Engine RUL Prediction (FD002 & FD004)
+tensorflow==2.21.0
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy>=1.26.0,<3.0.0
+matplotlib==3.9.3
+seaborn==0.13.2
+joblib==1.5.0
+ipykernel>=6.29.0
+jupyter>=1.0.0

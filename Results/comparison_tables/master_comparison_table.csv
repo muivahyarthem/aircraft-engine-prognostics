@@ -1,0 +1,15 @@
+Experiment,Model,Dataset,MAE,RMSE,NASA Score
+FD002 Baselines & Hybrid,CNN,FD002,11.04,14.77,1251.8
+FD002 Baselines & Hybrid,LSTM,FD002,10.93,14.77,1138.4
+FD002 Baselines & Hybrid,GRU,FD002,10.19,13.71,953.7
+FD002 Baselines & Hybrid,Hybrid CNN-GRU (without Attention),FD002,12.95,17.03,1241.7
+FD002 Baselines & Hybrid,Hybrid CNN-GRU + Attention (Ablation),FD002,12.01,16.71,1350.4
+FD004 Full Training (100%),Trained from Scratch on FD004 (Hybrid),FD004,11.67,15.83,1070.5
+FD004 Full Training (100%),Transfer Learning (Hybrid: FD002 -> FD004),FD004,12.04,15.93,978.1
+FD004 Full Training (100%),Transfer Learning (GRU: FD002 -> FD004),FD004,11.37,15.43,1068.7
+Few-Shot (10% Data),Transfer Learning,FD004,-,18.84,1901.3
+Few-Shot (10% Data),Train From Scratch,FD004,-,22.35,2835.7
+Few-Shot (20% Data),Transfer Learning,FD004,-,19.5,1605.5
+Few-Shot (20% Data),Train From Scratch,FD004,-,21.0,2775.1
+Few-Shot (50% Data),Transfer Learning,FD004,-,16.06,1167.5
+Few-Shot (50% Data),Train From Scratch,FD004,-,16.18,1296.9

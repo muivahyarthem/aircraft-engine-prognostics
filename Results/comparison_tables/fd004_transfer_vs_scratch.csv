@@ -1,0 +1,4 @@
+Model,MAE,RMSE,NASA Score,Training Time (s)
+Trained from Scratch on FD004 (Hybrid),11.67,15.83,1070.5,106.7
+Transfer Learning (Hybrid: FD002 -> FD004),12.04,15.93,978.1,225.0
+Transfer Learning (GRU: FD002 -> FD004),11.37,15.43,1068.7,399.6

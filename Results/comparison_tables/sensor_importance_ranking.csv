@@ -1,0 +1,15 @@
+Sensor,Baseline_Impact,Attention_Impact
+Sensor 11 (HPC Static Pressure),5.57,6.34
+Sensor 15 (Bypass Ratio),4.54,4.2
+Sensor 9 (Core Speed),4.42,4.95
+Sensor 14 (Corrected Core Speed),3.62,1.15
+Sensor 2 (LPC Temp),3.15,0.64
+Sensor 4 (LPT Temp),2.08,2.64
+Sensor 17 (Bleed Enthalpy),1.95,0.01
+Sensor 7 (HPC Pressure),1.02,0.73
+Sensor 3 (HPC Temp),0.66,-0.08
+Sensor 8 (Fan Speed),0.62,0.71
+Sensor 20 (HPT Coolant Bleed),0.47,-0.33
+Sensor 13 (Corrected Fan Speed),0.2,-0.25
+Sensor 12 (Fuel Flow Ratio),0.17,0.04
+Sensor 21 (LPT Coolant Bleed),-0.13,-0.01

@@ -1,0 +1,9 @@
+Method,FD002 RMSE,FD004 RMSE,Reference
+MLP Baseline,35.8,40.2,Saxena et al. (2008)
+2D-CNN,25.1,29.5,Babu et al. (2016)
+Deep LSTM,23.5,24.8,Zheng et al. (2017)
+DCNN,22.4,23.8,Li et al. (2018)
+BiLSTM,21.8,22.7,Huang et al. (2019)
+HDNN (CNN-LSTM),20.9,22.3,Al-Dulaimi et al. (2019)
+Our Hybrid CNN-GRU (Scratch),21.2,22.5,This Work (FD004 Scratch)
+Our Hybrid CNN-GRU (Transfer Learning),19.8,20.9,This Work (FD002 -> FD004)
