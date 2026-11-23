@@ -279,13 +279,7 @@ Execute the notebooks in sequence from `01` to `06` to reproduce all preprocessi
 - ✅ **State-of-the-Art Benchmark:** Outperformed published literature benchmarks with an **FD004 test RMSE of 20.9**.
 
 ---
-
-## 👤 Author
-- **Student Name:** Yarthem Muivah (Reg. No: 2582413)
-- **Course:** MDA507-5: Neural Networks and Deep Learning
-- **Institution:** Department of Data Science, CHRIST (Deemed to be University), Pune Lavasa Campus
 - **Date:** November 2026
-
 ---
 
 ⭐ *If you found this research repository helpful, please consider giving it a star!*
